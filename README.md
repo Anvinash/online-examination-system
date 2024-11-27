@@ -1,4 +1,4 @@
-#Project Setup
+#projectSetup
 This guide will help you set up and run the project using Visual Studio Code (VS Code). It includes instructions for starting both the frontend and backend services, and setting up the MongoDB database.
 
 #Prerequisites
